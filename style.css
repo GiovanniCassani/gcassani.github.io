@@ -1,0 +1,38 @@
+body
+{
+    margin:0;
+    font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    font-size: 14px;
+}
+
+
+/* unvisited link */
+a:link, a:visited, a:active {
+    color: gray;
+}
+
+a:hover
+{
+    color: steelblue;
+}
+
+.codeblock
+{
+    font-family: "Courier New", Courier, monospace;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.header
+{
+    margin-top: 20px;
+}
+
+#content
+{
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
